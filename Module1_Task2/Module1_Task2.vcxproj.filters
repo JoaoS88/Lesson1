@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="introVariables.cpp">
+    <ClCompile Include="unitConversion.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
